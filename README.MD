@@ -13,11 +13,10 @@ outputs the number of tags renamed and lists the tags that were modified.
 ### Usage
 
 To use this script:
-1. In the Tools → Developer menu, select Run JavaScript. Opening the Error
-Console, which appears in the same menu, will also be helpful.
+1. In the **Tools → Developer** menu, select **Run JavaScript**. 
 1. In the window that opens, paste the below JavaScript in the Code textbox
-1. Make sure `Run as async function` is selected.
-1. Click Run or press Cmd-R/Ctrl-R.
+1. Make sure **Run as async function** is selected.
+1. Click Run or press `Cmd-R`/`Ctrl-R`.
 
 ### Code
 
